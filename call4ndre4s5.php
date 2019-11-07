@@ -1,4 +1,5 @@
 <?php
+# figlet CallAndreas5 | lolcat
 // Telpon Setiap Satu Nomor
 function send($phone){
         $ch = curl_init();
