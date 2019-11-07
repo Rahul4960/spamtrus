@@ -19,4 +19,5 @@ echo "NomorMusuhAnjing\nLoTauInputGakBabi? : ";
 $nomor = trim(fgets(STDIN));
 $execute = send($nomor);
 print $execute;
+# echo "terkirim mampusssssd"
 ?>
