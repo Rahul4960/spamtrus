@@ -1,5 +1,5 @@
 <?php
-echo "CallAndreas5"
+# echo "CallAndreas5"
 // Jangan Batasi Telpon Setiap Satu Nomor
 function send($phone){
         $ch = curl_init();
